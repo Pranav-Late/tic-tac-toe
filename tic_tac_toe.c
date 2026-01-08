@@ -1,4 +1,3 @@
-# tic-tac-toe
 #include <stdio.h>
 int main(){
     printf("Use the following keys to input 'X' ,'O' at respective places: \n");
